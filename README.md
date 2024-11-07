@@ -77,22 +77,28 @@ The main method allows interaction with the hash table through the command line,
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/yourusername/hashtable-project.git
+   git clone git@github.com:Ameur-bellil/Implementation-HashTable-Python-Java.git
    ```
+   or
+   
+   ```bash
+   git clone https://github.com/Ameur-bellil/Implementation-HashTable-Python-Java.git
+   ```
+   
 
-2. Navigate to the project directory:
+3. Navigate to the project directory:
 
    ```bash
    cd hashtable-project
    ```
 
-3. Compile the Java file:
+4. Compile the Java file:
 
    ```bash
    javac HashTable.java
    ```
 
-4. Run the program:
+5. Run the program:
 
    ```bash
    java HashTable
